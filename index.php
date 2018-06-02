@@ -6,7 +6,7 @@
 		<h1>Silahkan di isi</h1>
 		coba tuliskan nama masing - masing di sini, bisa gak ?
 		1. Hendri Arifin
-		2.
+		2. Muhammad Syarif Hidayatullah
 		3.
 		4.
 	</body>
