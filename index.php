@@ -1,3 +1,4 @@
+<?php include_once 'config/connection.php'; ?>
 <html>
 	<head>
 		<title>Aplikasi Perizinan</title>
@@ -9,5 +10,7 @@
 		2.
 		3.
 		4.
+		<?php include_once 'content.php'; ?>
+		<div class="footer">copy &copy;</div>
 	</body>
 </html>
