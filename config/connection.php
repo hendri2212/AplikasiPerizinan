@@ -20,8 +20,7 @@
 }
 
 class form extends database {
-	public function table()
-	{
-		# code...
+	public function table() {
+		$this->QUERY("");
 	}
 } ?>
