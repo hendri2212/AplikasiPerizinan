@@ -10,7 +10,7 @@
 		coba tuliskan nama masing - masing di sini, bisa gak ?
 		1. Hendri Arifin
 		2. Muhammad Syarif Hidayatullah
-		3.
+		3. Dian Setiawan
 		4.
 		<?php include_once 'content.php'; ?>
 		<div class="footer">copy &copy;</div>
