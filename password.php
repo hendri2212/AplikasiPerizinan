@@ -1,1 +1,1 @@
-passwordnya adalah = "12345"
+password adalah = "12345"
