@@ -1,3 +1,3 @@
 # AplikasiPerizinan
-Aplikasi Perizinan Kecamatan Pulau Laut Utara
+Aplikasi Perizinan adalah aplikasi layanan masyarakat daerah kecamatan <b>Pulau Laut Utara</b>
 de
