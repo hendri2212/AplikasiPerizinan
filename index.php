@@ -4,7 +4,9 @@
 		<title>Aplikasi Perizinan</title>
 	</head>
 	<body>
-		<h1>Silahkan di isi</h1>
+		<div class="header">
+			<h1>Silahkan di isi</h1>
+		</div>
 		coba tuliskan nama masing - masing di sini, bisa gak ?
 		1. Hendri Arifin
 		2.
