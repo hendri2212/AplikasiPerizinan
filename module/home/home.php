@@ -1,1 +1,1 @@
-home.php
+<h1>Selamat datang di aplikasi perizinan usaha mikro</h1>
